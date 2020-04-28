@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/parcial-2/static/css/main.f84d5d1a.chunk.css",
-    "main.js": "/parcial-2/static/js/main.a458dc65.chunk.js",
-    "main.js.map": "/parcial-2/static/js/main.a458dc65.chunk.js.map",
+    "main.js": "/parcial-2/static/js/main.9dc7da36.chunk.js",
+    "main.js.map": "/parcial-2/static/js/main.9dc7da36.chunk.js.map",
     "runtime-main.js": "/parcial-2/static/js/runtime-main.3e0822a7.js",
     "runtime-main.js.map": "/parcial-2/static/js/runtime-main.3e0822a7.js.map",
-    "static/js/2.ee01f8df.chunk.js": "/parcial-2/static/js/2.ee01f8df.chunk.js",
-    "static/js/2.ee01f8df.chunk.js.map": "/parcial-2/static/js/2.ee01f8df.chunk.js.map",
+    "static/js/2.b57f454d.chunk.js": "/parcial-2/static/js/2.b57f454d.chunk.js",
+    "static/js/2.b57f454d.chunk.js.map": "/parcial-2/static/js/2.b57f454d.chunk.js.map",
     "index.html": "/parcial-2/index.html",
-    "precache-manifest.127d72b091e6a48115bb227ca6ccd7d7.js": "/parcial-2/precache-manifest.127d72b091e6a48115bb227ca6ccd7d7.js",
+    "precache-manifest.3a7114a73dda4e7fd821673dd3272996.js": "/parcial-2/precache-manifest.3a7114a73dda4e7fd821673dd3272996.js",
     "service-worker.js": "/parcial-2/service-worker.js",
     "static/css/main.f84d5d1a.chunk.css.map": "/parcial-2/static/css/main.f84d5d1a.chunk.css.map",
-    "static/js/2.ee01f8df.chunk.js.LICENSE.txt": "/parcial-2/static/js/2.ee01f8df.chunk.js.LICENSE.txt",
+    "static/js/2.b57f454d.chunk.js.LICENSE.txt": "/parcial-2/static/js/2.b57f454d.chunk.js.LICENSE.txt",
     "static/media/alita.jpg": "/parcial-2/static/media/alita.028a52b2.jpg",
     "static/media/android.jpg": "/parcial-2/static/media/android.9d771773.jpg",
     "static/media/arduino.jpg": "/parcial-2/static/media/arduino.ccb0bc77.jpg",
@@ -66,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3e0822a7.js",
-    "static/js/2.ee01f8df.chunk.js",
+    "static/js/2.b57f454d.chunk.js",
     "static/css/main.f84d5d1a.chunk.css",
-    "static/js/main.a458dc65.chunk.js"
+    "static/js/main.9dc7da36.chunk.js"
   ]
 }
